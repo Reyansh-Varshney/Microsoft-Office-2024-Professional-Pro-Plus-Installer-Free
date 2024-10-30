@@ -1,6 +1,6 @@
-# Microsoft Office 2024 Installer (Unofficial)
+# Microsoft Office 2024 Professional Pro Plus Installer
 
-**Disclaimer:** This installer is for personal portable and installer versions of Microsoft Office 2024.
+**Disclaimer:** This installer is for personal portable and installer versions of Microsoft Office 2024 Professional Pro Plus Installer.
 
 ## Overview
 
@@ -15,7 +15,7 @@ This is a Python application designed to facilitate the installation of Microsof
 * Downloads the Office Deployment Tool (ODT) automatically (installer version only).
 * Runs the ODT with administrative privileges.
 * Guides the user through manual extraction of setup files (portable version only).
-* Creates a `config.xml` file with necessary configuration settings.
+* Creates a config.xml file with necessary configuration settings.
 * Installs Microsoft Office 2024 with the created configuration file.
 * Simple and modern UI built using Tkinter.
 
