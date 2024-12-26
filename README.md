@@ -23,8 +23,7 @@ This is a Python application designed to facilitate the installation of Microsof
 
 1. Clone or download the repository to your local machine.
 2. Open a terminal or command prompt in the project directory.
-3. Install the required dependencies by running `pip install -r requirements.txt`.
-4. Run the application with `python main.py`.
+3. Run the application with `python main.py`.
 
 ## Download
 
